@@ -8,7 +8,7 @@ export default function App() {
   return (
     <div className="mainContainer">
       <h1 className="mainTitle">Lucas Al Jalali`s Challenge</h1>
-      {/*<WalletChatWidget widgetState={widgetState}/>*/}
+      <WalletChatWidget widgetState={widgetState}/>
       <div title="Chat With Owner">
         <button
         
